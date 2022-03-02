@@ -1,0 +1,6 @@
+D:\DOT NET Training\HelloWorld\Calculator\bin\Debug\Calculator.dll
+D:\DOT NET Training\HelloWorld\Calculator\bin\Debug\Calculator.pdb
+D:\DOT NET Training\HelloWorld\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+D:\DOT NET Training\HelloWorld\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+D:\DOT NET Training\HelloWorld\Calculator\obj\Debug\Calculator.dll
+D:\DOT NET Training\HelloWorld\Calculator\obj\Debug\Calculator.pdb
